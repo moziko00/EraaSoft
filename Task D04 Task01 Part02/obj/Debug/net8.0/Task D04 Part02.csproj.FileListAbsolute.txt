@@ -1,0 +1,14 @@
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D04 Part02\bin\Debug\net8.0\Task D04 Part02.exe
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D04 Part02\bin\Debug\net8.0\Task D04 Part02.deps.json
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D04 Part02\bin\Debug\net8.0\Task D04 Part02.runtimeconfig.json
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D04 Part02\bin\Debug\net8.0\Task D04 Part02.dll
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D04 Part02\bin\Debug\net8.0\Task D04 Part02.pdb
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D04 Part02\obj\Debug\net8.0\Task D04 Part02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D04 Part02\obj\Debug\net8.0\Task D04 Part02.AssemblyInfoInputs.cache
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D04 Part02\obj\Debug\net8.0\Task D04 Part02.AssemblyInfo.cs
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D04 Part02\obj\Debug\net8.0\Task D04 Part02.csproj.CoreCompileInputs.cache
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D04 Part02\obj\Debug\net8.0\Task D04 Part02.dll
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D04 Part02\obj\Debug\net8.0\refint\Task D04 Part02.dll
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D04 Part02\obj\Debug\net8.0\Task D04 Part02.pdb
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D04 Part02\obj\Debug\net8.0\Task D04 Part02.genruntimeconfig.cache
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D04 Part02\obj\Debug\net8.0\ref\Task D04 Part02.dll
