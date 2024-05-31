@@ -1,0 +1,14 @@
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Task 3\Search Task\bin\Debug\net8.0\Search Task.exe
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Task 3\Search Task\bin\Debug\net8.0\Search Task.deps.json
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Task 3\Search Task\bin\Debug\net8.0\Search Task.runtimeconfig.json
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Task 3\Search Task\bin\Debug\net8.0\Search Task.dll
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Task 3\Search Task\bin\Debug\net8.0\Search Task.pdb
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Task 3\Search Task\obj\Debug\net8.0\Search Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Task 3\Search Task\obj\Debug\net8.0\Search Task.AssemblyInfoInputs.cache
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Task 3\Search Task\obj\Debug\net8.0\Search Task.AssemblyInfo.cs
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Task 3\Search Task\obj\Debug\net8.0\Search Task.csproj.CoreCompileInputs.cache
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Task 3\Search Task\obj\Debug\net8.0\Search Task.dll
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Task 3\Search Task\obj\Debug\net8.0\refint\Search Task.dll
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Task 3\Search Task\obj\Debug\net8.0\Search Task.pdb
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Task 3\Search Task\obj\Debug\net8.0\Search Task.genruntimeconfig.cache
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Task 3\Search Task\obj\Debug\net8.0\ref\Search Task.dll
