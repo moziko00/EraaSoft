@@ -1,0 +1,14 @@
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D01\bin\Debug\net8.0\Task D01.exe
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D01\bin\Debug\net8.0\Task D01.deps.json
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D01\bin\Debug\net8.0\Task D01.runtimeconfig.json
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D01\bin\Debug\net8.0\Task D01.dll
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D01\bin\Debug\net8.0\Task D01.pdb
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D01\obj\Debug\net8.0\Task D01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D01\obj\Debug\net8.0\Task D01.AssemblyInfoInputs.cache
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D01\obj\Debug\net8.0\Task D01.AssemblyInfo.cs
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D01\obj\Debug\net8.0\Task D01.csproj.CoreCompileInputs.cache
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D01\obj\Debug\net8.0\Task D01.dll
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D01\obj\Debug\net8.0\refint\Task D01.dll
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D01\obj\Debug\net8.0\Task D01.pdb
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D01\obj\Debug\net8.0\Task D01.genruntimeconfig.cache
+C:\Users\mohamed zakaria\Downloads\ERAA SOFT .NET\D04 Eaasoft .Net\D04 Eraasoft .Net 505\task\Task D01\obj\Debug\net8.0\ref\Task D01.dll
