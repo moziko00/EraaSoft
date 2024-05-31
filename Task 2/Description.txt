@@ -1,0 +1,32 @@
+// Inheritance & operator overloading
+
+You are provided with a simple Account class
+
+An Account has a name and a balance.
+
+I have also provided some Account helper functions in AccountUtil
+that make it easy to display, deposit to, and withdraw from a vector of Accounts.
+
+Your task is the following:
+
+1. Add a Savings Account class to the Account hierarchy and adds an interest rata.
+
+2. Add a Checking account class to the Account hierarchy
+    A Checking account has a name and a balance and has a fee of $1.50 per withdrawal transaction.
+    Every withdrawal transaction will be assessed this flat fee.
+
+3. Add a Trust account class to the Account hierarchy
+    A Trust account has a name, a balance, and an interest rate
+    The Trust account deposit works just like a savings account deposit.
+    However, any deposits of $5000.00 or more will receive a $50.00 bonus deposited to the account.
+   
+    The Trust account withdrawal should only allow 3 withdrawals per year and each of these must be less than 20% of the account balance.
+    
+4. Overload + operator in Account class (to sum the balances of two objects you will be create in Main)
+
+5. Add helper functions to other classes.
+
+Hints: 
+    Reuse existing functionality!!
+    Think about what the Base class will be for the new classes.
+    override to string always!
