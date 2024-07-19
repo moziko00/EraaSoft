@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mohamed zakaria\\OneDrive\\Desktop\\Task 02 in EF\\Task_02_EF\\Task_02_EF.csproj": {}
+    "C:\\Users\\mohamed zakaria\\Downloads\\ERAA SOFT .NET\\Githup\\EF-Core-Task 02\\ML\\Task_02_EF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mohamed zakaria\\OneDrive\\Desktop\\Task 02 in EF\\Task_02_EF\\Task_02_EF.csproj": {
+    "C:\\Users\\mohamed zakaria\\Downloads\\ERAA SOFT .NET\\Githup\\EF-Core-Task 02\\ML\\Task_02_EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohamed zakaria\\OneDrive\\Desktop\\Task 02 in EF\\Task_02_EF\\Task_02_EF.csproj",
+        "projectUniqueName": "C:\\Users\\mohamed zakaria\\Downloads\\ERAA SOFT .NET\\Githup\\EF-Core-Task 02\\ML\\Task_02_EF.csproj",
         "projectName": "Task_02_EF",
-        "projectPath": "C:\\Users\\mohamed zakaria\\OneDrive\\Desktop\\Task 02 in EF\\Task_02_EF\\Task_02_EF.csproj",
+        "projectPath": "C:\\Users\\mohamed zakaria\\Downloads\\ERAA SOFT .NET\\Githup\\EF-Core-Task 02\\ML\\Task_02_EF.csproj",
         "packagesPath": "C:\\Users\\mohamed zakaria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohamed zakaria\\OneDrive\\Desktop\\Task 02 in EF\\Task_02_EF\\obj\\",
+        "outputPath": "C:\\Users\\mohamed zakaria\\Downloads\\ERAA SOFT .NET\\Githup\\EF-Core-Task 02\\ML\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mohamed zakaria\\AppData\\Roaming\\NuGet\\NuGet.Config",
