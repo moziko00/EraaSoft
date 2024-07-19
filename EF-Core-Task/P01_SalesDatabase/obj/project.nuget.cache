@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HIAy82By/Pk=",
+  "dgSpecHash": "pHOyDRUqJ+M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mohamed zakaria\\OneDrive\\Desktop\\EF-core-Task\\P01_SalesDatabase\\P01_SalesDatabase.csproj",
+  "projectFilePath": "C:\\Users\\mohamed zakaria\\Downloads\\ERAA SOFT .NET\\Githup\\EF-Core-Task\\P01_SalesDatabase\\P01_SalesDatabase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mohamed zakaria\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\mohamed zakaria\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
