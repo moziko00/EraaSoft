@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Go6/tnyKnmw=",
+  "dgSpecHash": "bMwUa1F59yI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mohamed zakaria\\OneDrive\\Desktop\\Task 02 in EF\\P01_StudentSystem\\P01_StudentSystem.csproj",
+  "projectFilePath": "C:\\Users\\mohamed zakaria\\Downloads\\ERAA SOFT .NET\\Githup\\EF-Core-Task 02\\P01_StudentSystem\\P01_StudentSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mohamed zakaria\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\mohamed zakaria\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

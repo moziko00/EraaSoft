@@ -1,0 +1,43 @@
+﻿@model List<Hospital_Project.Models.Doctor>
+
+    
+
+<form>
+    <h1>Complete Appointment With @ViewBag.Name</h1>
+
+    <div class ="mb-3">
+        <label for="PatientName" class="form-label">Patient Name</label>
+        <input type="text" id="PatientName" class="form-control" required>
+
+
+        <label for="AppointmentDate" class="form-label">Appointment Date</label>
+        <input type="date" id="AppointmentDate" class="form-control" required>
+
+
+        <label for="AppointtmentTime" class="form-label">Appointment Time</label>
+        <input type="time" id="AppointtmentTime" class="form-control" required>
+
+        <br />
+        <br />
+
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#m">Complite Appointment </button>
+    </div>
+    <div id="m" class="modal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Appointment Completed</h5>
+                    <button class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Your appointment has been successfully completed. Thank you!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+
+
+
+

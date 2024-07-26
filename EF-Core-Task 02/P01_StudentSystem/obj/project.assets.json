@@ -4111,11 +4111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mohamed zakaria\\OneDrive\\Desktop\\Task 02 in EF\\P01_StudentSystem\\P01_StudentSystem.csproj",
+      "projectUniqueName": "C:\\Users\\mohamed zakaria\\Downloads\\ERAA SOFT .NET\\Githup\\EF-Core-Task 02\\P01_StudentSystem\\P01_StudentSystem.csproj",
       "projectName": "P01_StudentSystem",
-      "projectPath": "C:\\Users\\mohamed zakaria\\OneDrive\\Desktop\\Task 02 in EF\\P01_StudentSystem\\P01_StudentSystem.csproj",
+      "projectPath": "C:\\Users\\mohamed zakaria\\Downloads\\ERAA SOFT .NET\\Githup\\EF-Core-Task 02\\P01_StudentSystem\\P01_StudentSystem.csproj",
       "packagesPath": "C:\\Users\\mohamed zakaria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mohamed zakaria\\OneDrive\\Desktop\\Task 02 in EF\\P01_StudentSystem\\obj\\",
+      "outputPath": "C:\\Users\\mohamed zakaria\\Downloads\\ERAA SOFT .NET\\Githup\\EF-Core-Task 02\\P01_StudentSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mohamed zakaria\\AppData\\Roaming\\NuGet\\NuGet.Config",
